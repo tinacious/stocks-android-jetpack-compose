@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Stocks</string>
+    <string name="tinacious_design_logo_content_description">Tinacious Design logo</string>
+
+    <!-- Nav -->
+    <string name="route_stock_search">Stocks</string>
+    <string name="route_about">About</string>
+
+    <string name="connection_lost_message">Lost internet connection. Using cached data if available.</string>
+    <string name="connection_restored_message">Internet connection restored.</string>
+
+    <string name="stock_search_error_stocks_fetch_failed">Failed to fetch stocks. Will be using cached data if available.</string>
+
+    <string name="search_icon_content_description">Search</string>
+    <string name="search_field_placeholder">Search for a stock…</string>
+    <string name="search_clear_button">Clear</string>
+
+    <string name="stock_search_empty_heading">🧐 Search for stocks</string>
+    <string name="stock_search_empty_message">Use the search field above to find stocks by ticker or by name</string>
+
+    <string name="stock_search_no_results_heading">☹️ No stocks</string>
+    <string name="stock_search_no_results_message">No stocks matched your search query</string>
+
+    <string name="about_screen_title">About</string>
+    <string name="about_screen_message">This stocks app was built by Tina Holly at <b>Tinacious Design</b>.</string>
+</resources>
