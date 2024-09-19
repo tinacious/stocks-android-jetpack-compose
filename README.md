@@ -56,6 +56,8 @@ The screenshot below shows that you need to choose the "app" build configuration
 
 ![](./screenshots/build-app-config.png)
 
+![](./screenshots/gifs/gradle-assemble.gif)
+
 
 ### Unit and UI tests
 
@@ -76,7 +78,14 @@ Below is a screenshot of the Android Studio UI and where to find these tests. Th
 
 ![Screenshot of the androidTest and test directories in Android Studio](./screenshots/tests-running-android-studio.png)
 
+Below is a GIF of running the unit and connected tests in the terminal.
 
+![](./screenshots/gifs/gradle-test.gif)
+![](./screenshots/gifs/gradle-connectedCheck.gif)
+
+Below is a GIF of running the test suites in Android Studio:
+
+![](./screenshots/gifs/android-studio-unit-connected.gif)
 
 
 ## Features
